@@ -1,0 +1,28 @@
+category,name,crust,toppings,sauces
+named_pizza,Margherita,classic,mozzarella,tomato
+named_pizza,Pepperoni,hand-tossed,pepperoni,tomato
+named_pizza,BBQ Chicken,thin,"grilled chicken",bbq
+named_pizza,Hawaiian,pan,"ham, pineapple",tomato
+size,small,,,
+size,medium,,,
+size,large,,,
+size,extra large,,,
+crust,classic,,,
+crust,hand-tossed,,,
+crust,thin,,,
+crust,pan,,,
+crust,gluten-free,,,
+topping,mozzarella,,,
+topping,pepperoni,,,
+topping,mushrooms,,,
+topping,onions,,,
+topping,bell peppers,,,
+topping,olives,,,
+topping,grilled chicken,,,
+topping,ham,,,
+topping,pineapple,,,
+topping,feta,,,
+sauce,bbq,,,
+sauce,tomato,,,
+sauce,alfredo,,,
+sauce,pesto,,,
